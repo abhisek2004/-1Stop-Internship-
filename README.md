@@ -1,7 +1,7 @@
 # -1Stop-Internship-
 Web Development Front-end - Self Paced Intern 
 
-I have completed my 1Stop internship in Web Development Front-end! 🎉 It sounds like i've had a productive and enriching experience over the past two months. Let's delve into the projects you've worked on:
+I have completed my 1Stop internship in Web Development Front-end! 🎉 It sounds like i've had a productive and enriching experience over the past two months. Let's delve into the projects i've worked on:
 
 1. **Single Page Website of 1Stop Intern Company Website Clone**:
    Building a clone of the 1Stop Intern company website is an excellent way to showcase your front-end development skills. This project likely involved creating a visually appealing and responsive single-page website that mirrors the design and functionality of the original site. You may have utilized HTML for structure, CSS for styling, and JavaScript for interactivity. By successfully replicating the company's website, you demonstrate your ability to translate design concepts into fully functional web pages. 🌐💼
