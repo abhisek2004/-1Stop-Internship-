@@ -1,7 +1,7 @@
-# -1Stop-Internship-
+# -1Stop-Internship- 🌟🚀 Exciting News Alert! 🚀🌟
 Web Development Front-end - Self Paced Intern 
 
-🌟🚀 Exciting News Alert! 🚀🌟
+
 
 I have completed my 1Stop internship in Web Development Front-end! 🎉 It sounds like i've had a productive and enriching experience over the past two months. Let's delve into the projects i've worked on:
 
