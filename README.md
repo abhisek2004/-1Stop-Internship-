@@ -15,3 +15,6 @@ I have completed my 1Stop internship in Web Development Front-end! 🎉 It sound
    The To-Do List project is another fundamental exercise in web development that focuses on user interface design and data manipulation. You would have created a web application where users can add, delete, and mark tasks as complete. This project likely involved HTML for structure, CSS for styling, and JavaScript for handling user interactions and managing task data. Developing a functional To-Do List demonstrates your ability to create dynamic and user-friendly web applications. ✅📝
 
 In summary, my internship journey has provided me with hands-on experience in front-end web development, allowing me to build practical projects that showcase my skills. These projects not only demonstrate my technical proficiency but also reflect my creativity and problem-solving abilities. Keep up the excellent work, and continue exploring the exciting world of web development!💻🚀
+
+![13 (1STOP (RAISE DIGITAL))WD LETTER](https://github.com/user-attachments/assets/8a9d3340-4634-43ff-96fe-cfa185f669d5)
+![13 (1STOP (RAISE DIGITAL))WD LETTER (2)](https://github.com/user-attachments/assets/738474a3-f149-470c-bc22-fea000a99944)
