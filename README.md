@@ -18,3 +18,6 @@ In summary, my internship journey has provided me with hands-on experience in fr
 
 ![13 (1STOP (RAISE DIGITAL))WD LETTER](https://github.com/user-attachments/assets/8a9d3340-4634-43ff-96fe-cfa185f669d5)
 ![13 (1STOP (RAISE DIGITAL))WD LETTER (2)](https://github.com/user-attachments/assets/738474a3-f149-470c-bc22-fea000a99944)
+![13 (1STOP (RAISE DIGITAL))WD Certificate participation](https://github.com/user-attachments/assets/8bf153db-9efa-4e4a-a911-8ae560e16668)
+![13 (1STOP (RAISE DIGITAL))WD Certificate project_completion](https://github.com/user-attachments/assets/55656b0c-d5a4-465c-b846-aa9d03fed28f)
+![13 (1STOP (RAISE DIGITAL))WD Certificate internship](https://github.com/user-attachments/assets/f9d8d40e-751f-476b-9067-9d6a47db5e6d)
